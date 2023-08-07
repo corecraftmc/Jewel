@@ -1,2 +1,2 @@
-# website
+# Jewel
 corecraft.me
